@@ -1,0 +1,17 @@
+{
+  "name": "file-upload-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for uploading, retrieving, and managing files and images using Node.js, Express, and MongoDB",
+  "license": "ISC",
+  "author": "Shashank Krishnaprasad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0",
+    "nodemon": "^3.1.10"
+  }
+}
